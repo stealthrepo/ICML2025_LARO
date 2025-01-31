@@ -1,0 +1,80 @@
+[1,   100] epoch_loss: 0.018585 batch_loss: 0.003886 batch_mae: 0.049430
+True MAE: 241.602051 , True MAPE: 7.061435 
+[1] Training MAE: 0.074760 ***Validation*** MAE: 0.033650 #######  True MAE on test batch 166.407 , True MAPE on test batch 4.832
+[101,   100] epoch_loss: 0.000033 batch_loss: 0.000027 batch_mae: 0.003966
+True MAE: 19.385931 , True MAPE: 0.574775 
+[101] Training MAE: 0.004580 ***Validation*** MAE: 0.005437 #######  True MAE on test batch 22.385 , True MAPE on test batch 0.671
+[201,   100] epoch_loss: 0.000025 batch_loss: 0.000025 batch_mae: 0.003904
+True MAE: 19.083220 , True MAPE: 0.559375 
+[201] Training MAE: 0.003882 ***Validation*** MAE: 0.004030 #######  True MAE on test batch 20.536 , True MAPE on test batch 0.629
+[301,   100] epoch_loss: 0.000022 batch_loss: 0.000016 batch_mae: 0.002897
+True MAE: 14.159120 , True MAPE: 0.421810 
+[301] Training MAE: 0.003428 ***Validation*** MAE: 0.003140 #######  True MAE on test batch 16.234 , True MAPE on test batch 0.480
+[401,   100] epoch_loss: 0.000017 batch_loss: 0.000017 batch_mae: 0.003054
+True MAE: 14.924920 , True MAPE: 0.427895 
+[401] Training MAE: 0.003186 ***Validation*** MAE: 0.004081 #######  True MAE on test batch 15.349 , True MAPE on test batch 0.446
+Epoch 00451: reducing learning rate of group 0 to 9.0000e-03.
+[501,   100] epoch_loss: 0.000015 batch_loss: 0.000013 batch_mae: 0.002786
+True MAE: 13.618285 , True MAPE: 0.396706 
+[501] Training MAE: 0.002983 ***Validation*** MAE: 0.003197 #######  True MAE on test batch 16.142 , True MAPE on test batch 0.480
+[601,   100] epoch_loss: 0.000011 batch_loss: 0.000012 batch_mae: 0.002662
+True MAE: 13.010325 , True MAPE: 0.385450 
+[601] Training MAE: 0.002545 ***Validation*** MAE: 0.002973 #######  True MAE on test batch 12.251 , True MAPE on test batch 0.363
+Epoch 00623: reducing learning rate of group 0 to 8.1000e-03.
+[701,   100] epoch_loss: 0.000011 batch_loss: 0.000013 batch_mae: 0.002768
+True MAE: 13.526983 , True MAPE: 0.400622 
+[701] Training MAE: 0.002719 ***Validation*** MAE: 0.002816 #######  True MAE on test batch 13.531 , True MAPE on test batch 0.375
+Epoch 00711: reducing learning rate of group 0 to 7.2900e-03.
+[801,   100] epoch_loss: 0.000009 batch_loss: 0.000007 batch_mae: 0.001995
+True MAE: 9.751775 , True MAPE: 0.276261 
+[801] Training MAE: 0.002297 ***Validation*** MAE: 0.002562 #######  True MAE on test batch 12.651 , True MAPE on test batch 0.360
+Epoch 00834: reducing learning rate of group 0 to 6.5610e-03.
+Epoch 00885: reducing learning rate of group 0 to 5.9049e-03.
+[901,   100] epoch_loss: 0.000009 batch_loss: 0.000006 batch_mae: 0.001905
+True MAE: 9.313354 , True MAPE: 0.277787 
+[901] Training MAE: 0.002221 ***Validation*** MAE: 0.002340 #######  True MAE on test batch 9.736 , True MAPE on test batch 0.289
+Epoch 00952: reducing learning rate of group 0 to 5.3144e-03.
+[1001,   100] epoch_loss: 0.000009 batch_loss: 0.000008 batch_mae: 0.002207
+True MAE: 10.785116 , True MAPE: 0.310723 
+[1001] Training MAE: 0.002179 ***Validation*** MAE: 0.002576 #######  True MAE on test batch 10.362 , True MAPE on test batch 0.294
+Epoch 01005: reducing learning rate of group 0 to 4.7830e-03.
+Epoch 01060: reducing learning rate of group 0 to 4.3047e-03.
+[1101,   100] epoch_loss: 0.000007 batch_loss: 0.000007 batch_mae: 0.001925
+True MAE: 9.407454 , True MAPE: 0.273025 
+[1101] Training MAE: 0.001999 ***Validation*** MAE: 0.002243 #######  True MAE on test batch 8.946 , True MAPE on test batch 0.256
+Epoch 01159: reducing learning rate of group 0 to 3.8742e-03.
+[1201,   100] epoch_loss: 0.000007 batch_loss: 0.000006 batch_mae: 0.001880
+True MAE: 9.189510 , True MAPE: 0.276764 
+[1201] Training MAE: 0.001944 ***Validation*** MAE: 0.002243 #######  True MAE on test batch 9.781 , True MAPE on test batch 0.272
+Epoch 01242: reducing learning rate of group 0 to 3.4868e-03.
+[1301,   100] epoch_loss: 0.000006 batch_loss: 0.000008 batch_mae: 0.002081
+True MAE: 10.172078 , True MAPE: 0.304640 
+[1301] Training MAE: 0.001866 ***Validation*** MAE: 0.002246 #######  True MAE on test batch 8.547 , True MAPE on test batch 0.236
+Epoch 01345: reducing learning rate of group 0 to 3.1381e-03.
+[1401,   100] epoch_loss: 0.000006 batch_loss: 0.000006 batch_mae: 0.001833
+True MAE: 8.960421 , True MAPE: 0.258481 
+[1401] Training MAE: 0.001811 ***Validation*** MAE: 0.002239 #######  True MAE on test batch 8.260 , True MAPE on test batch 0.242
+Epoch 01410: reducing learning rate of group 0 to 2.8243e-03.
+Epoch 01480: reducing learning rate of group 0 to 2.5419e-03.
+[1501,   100] epoch_loss: 0.000005 batch_loss: 0.000005 batch_mae: 0.001681
+True MAE: 8.214506 , True MAPE: 0.237624 
+[1501] Training MAE: 0.001729 ***Validation*** MAE: 0.002195 #######  True MAE on test batch 9.744 , True MAPE on test batch 0.293
+[1601,   100] epoch_loss: 0.000005 batch_loss: 0.000005 batch_mae: 0.001699
+True MAE: 8.303654 , True MAPE: 0.242844 
+[1601] Training MAE: 0.001706 ***Validation*** MAE: 0.002105 #######  True MAE on test batch 7.781 , True MAPE on test batch 0.219
+Epoch 01603: reducing learning rate of group 0 to 2.2877e-03.
+Epoch 01654: reducing learning rate of group 0 to 2.0589e-03.
+[1701,   100] epoch_loss: 0.000005 batch_loss: 0.000004 batch_mae: 0.001539
+True MAE: 7.523636 , True MAPE: 0.221030 
+[1701] Training MAE: 0.001687 ***Validation*** MAE: 0.002344 #######  True MAE on test batch 7.955 , True MAPE on test batch 0.229
+Epoch 01717: reducing learning rate of group 0 to 1.8530e-03.
+[1801,   100] epoch_loss: 0.000005 batch_loss: 0.000005 batch_mae: 0.001648
+True MAE: 8.056299 , True MAPE: 0.234766 
+[1801] Training MAE: 0.001673 ***Validation*** MAE: 0.002024 #######  True MAE on test batch 9.217 , True MAPE on test batch 0.270
+Epoch 01833: reducing learning rate of group 0 to 1.6677e-03.
+Epoch 01897: reducing learning rate of group 0 to 1.5009e-03.
+[1901,   100] epoch_loss: 0.000005 batch_loss: 0.000005 batch_mae: 0.001567
+True MAE: 7.660817 , True MAPE: 0.228867 
+[1901] Training MAE: 0.001582 ***Validation*** MAE: 0.002017 #######  True MAE on test batch 7.785 , True MAPE on test batch 0.230
+Epoch 01948: reducing learning rate of group 0 to 1.3509e-03.
+Finished Training
