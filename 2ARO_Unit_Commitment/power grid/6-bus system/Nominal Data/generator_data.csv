@@ -1,0 +1,4 @@
+﻿generator_no,start_up_cost,shut_down_cost,constant_cost_coeff,linear_cost_coeff,min_power,max_power,min_up_time,min_down_time,ramp_up_limit,ramp_down_limit,start_ramp_limit,shut_ramp_limit,bus_no
+1,100,50,177,13.5,100,220,4,4,55,55,55,55,1
+2,200,100,130,40,10,100,3,2,50,50,50,50,2
+3,0,0,137,17.7,10,40,1,1,20,20,20,20,6
